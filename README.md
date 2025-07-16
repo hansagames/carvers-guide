@@ -35,8 +35,8 @@ No additional Python packages are required, as the script uses Blender’s built
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/3d-model-reference-renderer.git
-   cd 3d-model-reference-renderer
+   git clone https://github.com/hansagames/carvers-guide.git
+   cd carvers-guide
    ```
 
 3. **Prepare Your 3D Model**:
